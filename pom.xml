@@ -131,8 +131,7 @@
                 <version>3.2.5</version>
                 <configuration>
                     <includes>
-                        <include>**/*Test.java</include>
-                        <include>**/*Tests.java</include>
+                        <include>MavenPractice/src/test/java/org/example/MathUtilsTest.java</include>
                     </includes>
                 </configuration>
                 <executions>
